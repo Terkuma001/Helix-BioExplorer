@@ -1,0 +1,8 @@
+streamlit
+requests
+networkx
+pyvis
+pandas
+matplotlib
+seaborn
+fpdf
